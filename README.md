@@ -127,7 +127,7 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17888.ts
 #EXTINF:0 group-title="[AL]LAJME", Euronews Albania
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/371.ts
 
-#EXTINF:0 group-title="[AL]KULTURE", EXP Shkenca
+#EXTINF:0 group-title="[AL]KULTURE", EXP Shkenca 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/315.ts
 #EXTINF:0 group-title="[AL]KULTURE", EXP Natyra
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/316.ts
