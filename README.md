@@ -2,6 +2,8 @@
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/216.ts
 #EXTINF:0 group-title="[AL]KOMBETARE", TVSH HD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/217.ts
+#EXTINF:0 group-title="[AL]KOMBETARE", Top Channel FHD
+http://130.0.24.6:2831/udp/239.101.101.25:2345
 #EXTINF:0 group-title="[AL]KOMBETARE", Top Channel
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/235.ts
 #EXTINF:0 group-title="[AL]KOMBETARE", Top Channel HD
