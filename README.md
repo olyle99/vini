@@ -346,19 +346,27 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17912.ts
 #EXTINF:0 group-title="[AL]FILMA-24", Filma24 Animuar FHD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17914.ts
 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 1 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-1HD 
+http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-2HD 
+http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-3HD 
+http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-4HD 
+http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-1 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/401.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 2 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-2 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/406.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 3 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-3 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/405.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 4 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-4 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/404.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 5 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-5 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/403.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 6 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-6 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17729.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SuperSport 7 HD VIP
+#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-7 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17730.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-1 HD HEVC
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/429.ts
@@ -370,8 +378,14 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/425.ts
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/423.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-5 HD HEVC
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/422.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-6 HD (BACKUP)
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/421.ts
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-1(test) 
+http://45.58.122.106:8081/live/s1/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-2(test) 
+http://45.58.122.106:8081/live/s2/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-3(test) 
+http://45.58.122.106:8081/live/s3/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-4(test) 
+http://45.58.122.106:8081/live/s4/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", OVERSPORT 1HD
 http://95.107.132.106/out/u/683_3.m3u8
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", OVERSPORT 2HD
