@@ -518,14 +518,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/425.ts
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/423.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-5 HD HEVC
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/422.ts
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-1(test) 
-http://45.58.122.106:8081/live/s1/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-2(test) 
-http://45.58.122.106:8081/live/s2/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-3(test) 
-http://45.58.122.106:8081/live/s3/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[$]SS-4(test) 
-http://45.58.122.106:8081/live/s4/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", OVERSPORT 1HD
 http://95.107.132.106/out/u/683_3.m3u8
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", OVERSPORT 2HD
@@ -568,6 +560,48 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/397.ts
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/396.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", Rtsh Sport
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/409.ts
+
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-1HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8289
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-2HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8290
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-3HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8291
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-4HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8292
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-1(test) 
+http://45.58.122.106:8081/live/s1/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-2(test) 
+http://45.58.122.106:8081/live/s2/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-3(test) 
+http://45.58.122.106:8081/live/s3/playlist.m3u8 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-4(test) 
+http://45.58.122.106:8081/live/s4/playlist.m3u8
+
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT NEWS HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8394
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 1HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8295
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 2HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8296
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 3HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8297
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 4HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8298
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 1HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8300
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 2HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8301
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 3HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8302
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 4HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8303
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 1HD
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8304
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 2HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8305
+#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 3HD 
+http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8306
 
 #EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport 24 HD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/635.ts
