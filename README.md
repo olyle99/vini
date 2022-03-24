@@ -486,14 +486,6 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17912.ts
 #EXTINF:0 group-title="[AL]FILMA-24", Filma24 Animuar FHD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17914.ts
 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-1HD 
-http://185.204.32.49:6735/UltraNetS1/stream/playlist.m3u8
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-2HD 
-http://185.204.32.49:6735/UltraNetS2/stream/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-3HD 
-http://185.204.32.49:6735/UltraNetS3/stream/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP",[VIP]SUPER SPORT-4HD 
-http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8 
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-1 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/401.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-2 HD 
@@ -561,120 +553,86 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/396.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", Rtsh Sport
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/409.ts
 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-1HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8289
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-2HD 
-http://185.204.32.49:6735/UltraNetS2/stream/index.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-3HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8291
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", SUPER SPORT-4HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8292
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-1
-http://45.58.122.106:8081/live/s1/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-2 
-http://45.58.122.106:8081/live/s2/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-3
-http://45.58.122.106:8081/live/s3/playlist.m3u8 
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2",[$]SS-4 
-http://45.58.122.106:8081/live/s4/playlist.m3u8
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT NEWS HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8394
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 1HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8295
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 2HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8296
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 3HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8297
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", TRING SPORT 4HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8298
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 1HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8300
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 2HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8301
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 3HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8302
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", KUJTESA SPORT 4HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8303
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 1HD
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8304
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 2HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8305
-#EXTINF:0 group-title="[AL]SPORTE SHQIP 2", ART SPORT 3HD 
-http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8306
-
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport 24 HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/635.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport Seria A HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/625.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport Uno HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/623.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Motor Trend
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/650.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Eurosport 1 HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/655.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", EuroSport 2 HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/654.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", WWE HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/617.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Zelig Sport
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/616.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Rai Sport   HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/577.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sport Italia
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/621.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Top Calcio 24
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/619.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport Arena HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/634.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport F1 FHD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/632.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport Football HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/630.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport MotoGP HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/627.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Sport NBA HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/626.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Calcio 1 FHD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/648.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Calcio 2 FHD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/646.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Sky Calcio 3 FHD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/644.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Inter Channel
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/653.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Milan Channel
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/651.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Roma Channel
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/649.ts
-#EXTINF:0 group-title="[AL]SPORTE ITALIANE", Torino Channel
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/618
-
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports News
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/872.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Premier League
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/871.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Arena HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/878.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Action HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/879.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Main Event
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/874.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Football
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/875.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Golf HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/870.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Mix
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/873.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports F1
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/876.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", Sky Sports Cricket HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/877.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", BT Sport ESPN
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/909.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", BT Sport 1 HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/911.ts
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE", BT Sport 2 HD
-http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/910.ts
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/UWTpW21.png",[$]SUPER SPORT 1HD (VIP)
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1316
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/o1C4usx.png",[$]SUPER SPORT 2HD (VIP)
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1312
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/ZklSK4O.png",[$]SUPER SPORT 3HD (VIP)
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1319
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/5q2bu31.png",[$]SUPER SPORT 4HD (VIP)
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1318
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/aANdiH2.png",[$]SUPER SPORT 5HD (VIP)
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1860
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47084?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47082?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47080?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/RWveFaA.png",[$]SS-4HD 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47078?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/OXVuWhw.png",[$]SS-1HD(TEST)
+http://45.58.122.106:8081/live/ss1/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/nT29xam.png",[$]SS-2HD(TEST)
+http://45.58.122.106:8081/live/ss2/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/FbjsZCv.png",[$]SS-3HD(TEST)
+http://45.58.122.106:8081/live/ss3/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/wJkhg8A.png",[$]SS-4HD(TEST)
+http://45.58.122.106:8081/live/ss4/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD (VIP)
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1298?
+#EXTINF:-1 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD (VIP)
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1302?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/zp4VUm9.png",[$]TRING SPORT 2HD (VIP)
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2104?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/kn6oY1u.png",[$]TRING SPORT 3HD (VIP)
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1300?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/87AMQuB.png",[$]TRING SPORT NEWS HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1861
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/Uy65ixy.png",[$]TRING SPORT 1HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1306
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/d6KNZrJ.png",[$]TRING SPORT 2HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1305
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/DoG3uto.png",[$]TRING SPORT 3HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1304
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/BHsdYod.png",[$]TRING SPORT 4HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1862
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]KUJTESA SPORT 1HD (VIP)
+http://185.222.138.163:9000/play/a0ts
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]KUJTESA SPORT 2HD (VIP)
+http://185.222.138.163:9000/play/a0tt
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/K5rsAsz.png",[$]KUJTESA SPORT 3HD (VIP)
+http://185.222.138.163:9000/play/a0tu
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/bXR4GHN.png",[$]KUJTESA SPORT 4HD (VIP)
+http://185.222.138.163:9000/play/a0uv
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]K SPORT 1HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47117?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]K SPORT 2HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47116?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/K5rsAsz.png",[$]K SPORT 3HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52212?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/bXR4GHN.png",[$]K SPORT 4HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52213?
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/SVUkTY0.png",[$]ART SPORT 1HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23143
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/p4pQW2c.png",[$]ART SPORT 2HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23146
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/Gu5vpcg.png",[$]ART SPORT 3HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/40061
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/96Vcrb2.png",[$]ART SPORT 4HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295216
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/s8OuyY4.png",[$]ART SPORT 5HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295215
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/TeurAsm.png",[$]ART SPORT 6HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/295217
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290218
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVERSPORT 2HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/Rqz8wbO.png",[$]OVERSPORT 3HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290537
+#EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/290538
 
 #EXTINF:0 group-title="[AL]SPORTE GJERMANE", Sky Sport News HD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/841.ts
