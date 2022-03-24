@@ -486,6 +486,14 @@ http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17912.ts
 #EXTINF:0 group-title="[AL]FILMA-24", Filma24 Animuar FHD
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/17914.ts
 
+#EXTINF:0 group-title="[AL]SPORTE SHQIP" tvg-logo="https://i.imgur.com/gAQFgJh.png",[$]SS-1HD VIP
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/52.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[AL]SPORTE SHQIP" tvg-logo="https://i.imgur.com/ZoDPh4R.png",[$]SS-2HD VIP
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/53.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[AL]SPORTE SHQIP" tvg-logo="https://i.imgur.com/t9VxPbU.png",[$]SS-3HD VIP
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/54.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
+#EXTINF:0 group-title="[AL]SPORTE SHQIP" tvg-logo="https://i.imgur.com/3ueVXNk.png",[$]SS-4HD VIP
+http://62.210.170.186:8080/live/ExoTv/Lluksomreza/55.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-1 HD 
 http://storeiptv.net:2095/live/Y4KStXSy33/qYz7jaaUfV/401.ts
 #EXTINF:0 group-title="[AL]SPORTE SHQIP", SS-2 HD 
@@ -572,13 +580,13 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47080?
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/RWveFaA.png",[$]SS-4HD 
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47078?
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/OXVuWhw.png",[$]SS-1HD(TEST)
-http://45.58.122.106:8081/live/ss1/playlist.m3u8
+http://45.58.122.106:8081/live/s1/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/nT29xam.png",[$]SS-2HD(TEST)
-http://45.58.122.106:8081/live/ss2/playlist.m3u8
+http://45.58.122.106:8081/live/s2/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/FbjsZCv.png",[$]SS-3HD(TEST)
-http://45.58.122.106:8081/live/ss3/playlist.m3u8
+http://45.58.122.106:8081/live/s3/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/wJkhg8A.png",[$]SS-4HD(TEST)
-http://45.58.122.106:8081/live/ss4/playlist.m3u8
+http://45.58.122.106:8081/live/s4/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD (VIP)
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1298?
 #EXTINF:-1 group-title="[AL]SPORTE TEST" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD (VIP)
